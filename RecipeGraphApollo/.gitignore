@@ -1,0 +1,34 @@
+
+# Node dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Logs
+logs
+*.log
+
+# Environment variables
+.env
+.env*.local
+
+# TypeScript
+*.tsbuildinfo
+
+# macOS system files
+.DS_Store
+
+# Debug files
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# VSCode settings (optional but common)
+.vscode/
+
+
+
+# Optional - test coverage
+coverage/
