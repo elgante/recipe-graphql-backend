@@ -1,4 +1,4 @@
-📚 Learning GraphQL, Apollo Server, and MongoDB.
+🛠️ Learning GraphQL, Apollo Server, and MongoDB.
 This simple project is part of my curious and hands-on journey to have basic understanding 
 of how to build a simple backend using GraphQL with Apollo Server and MongoDB.
 It includes basic CRUD operations for a recipe management. 
